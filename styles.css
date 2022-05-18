@@ -163,7 +163,9 @@ table td:nth-child(2),
 }
 .btn:hover {
   opacity: 0.9;
-}
+} 
+
+
 /*.position {
 border: 4px solid black;
 margin-top: 40px;
